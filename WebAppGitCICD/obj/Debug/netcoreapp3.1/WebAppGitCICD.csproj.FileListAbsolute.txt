@@ -46,7 +46,6 @@ F:\GitOrgs\jsgitpersonal\MyRepo0920new\WebAppGitCICD\bin\Debug\netcoreapp3.1\Web
 F:\GitOrgs\jsgitpersonal\MyRepo0920new\WebAppGitCICD\bin\Debug\netcoreapp3.1\WebAppGitCICD.pdb
 F:\GitOrgs\jsgitpersonal\MyRepo0920new\WebAppGitCICD\bin\Debug\netcoreapp3.1\WebAppGitCICD.Views.dll
 F:\GitOrgs\jsgitpersonal\MyRepo0920new\WebAppGitCICD\bin\Debug\netcoreapp3.1\WebAppGitCICD.Views.pdb
-F:\GitOrgs\jsgitpersonal\MyRepo0920new\WebAppGitCICD\obj\Debug\netcoreapp3.1\WebAppGitCICD.csprojAssemblyReference.cache
 F:\GitOrgs\jsgitpersonal\MyRepo0920new\WebAppGitCICD\obj\Debug\netcoreapp3.1\WebAppGitCICD.AssemblyInfoInputs.cache
 F:\GitOrgs\jsgitpersonal\MyRepo0920new\WebAppGitCICD\obj\Debug\netcoreapp3.1\WebAppGitCICD.AssemblyInfo.cs
 F:\GitOrgs\jsgitpersonal\MyRepo0920new\WebAppGitCICD\obj\Debug\netcoreapp3.1\WebAppGitCICD.csproj.CoreCompileInputs.cache
