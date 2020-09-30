@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitOrgs\\jsgitpersonal\\MyRepo0920new\\WebAppGitCICD\\WebAppGitCICD\\WebAppGitCICD.csproj",
+      "projectUniqueName": "F:\\GitOrgs\\jsgitpersonal\\MyRepo0920new\\WebAppGitCICD\\WebAppGitCICD.csproj",
       "projectName": "WebAppGitCICD",
-      "projectPath": "F:\\GitOrgs\\jsgitpersonal\\MyRepo0920new\\WebAppGitCICD\\WebAppGitCICD\\WebAppGitCICD.csproj",
+      "projectPath": "F:\\GitOrgs\\jsgitpersonal\\MyRepo0920new\\WebAppGitCICD\\WebAppGitCICD.csproj",
       "packagesPath": "C:\\Users\\harpr\\.nuget\\packages\\",
-      "outputPath": "F:\\GitOrgs\\jsgitpersonal\\MyRepo0920new\\WebAppGitCICD\\WebAppGitCICD\\obj\\",
+      "outputPath": "F:\\GitOrgs\\jsgitpersonal\\MyRepo0920new\\WebAppGitCICD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\harpr\\AppData\\Roaming\\NuGet\\NuGet.Config",
