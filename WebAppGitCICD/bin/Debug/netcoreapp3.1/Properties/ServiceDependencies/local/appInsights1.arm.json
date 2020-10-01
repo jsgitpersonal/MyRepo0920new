@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2018-05-01/subscriptionDeploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "resources": [
+    {
+      "type": "Microsoft.Resources/resourceGroups",
+      "name": "res-grp-app",
+      "location": "centralus",
+      "apiVersion": "2019-10-01"
+    },
+    {
+      "type": "Microsoft.Resources/deployments",
+      "name": "[concat('res-grp-appDeployment', uniqueString(subscription().subscriptionId))]",
+      "resourceGroup": "res-grp-app",
+      "apiVersion": "2019-10-01",
+      "dependsOn": [
+        "res-grp-app"
+      ],
+      "properties": {
+        "mode": "Incremental",
+        "template": {
+          "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+          "contentVersion": "1.0.0.0",
+          "resources": [
+            {
+              "name": "MyApplication0920new",
+              "type": "microsoft.insights/components",
+              "location": "centralus",
+              "kind": "web",
+              "properties": {},
+              "apiVersion": "2015-05-01"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

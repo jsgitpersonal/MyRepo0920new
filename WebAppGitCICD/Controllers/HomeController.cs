@@ -27,6 +27,11 @@ namespace WebAppGitCICD.Controllers
             return View("Index", model);
         }
 
+        public IActionResult Test()
+        {
+            throw new InvalidOperationException("This module is not supported");
+        }
+
         public IActionResult Privacy()
         {
             return View();
